@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 5rem;
+    border: 1px solid rgb(181, 178, 178);
+    border-radius:3rem ;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    color: darkcyan;
+}
